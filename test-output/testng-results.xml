@@ -1,0 +1,1440 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results retried="1" ignored="0" total="17" passed="16" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[Test Suite Started]]>
+    </line>
+    <line>
+      <![CDATA[Test Case Started]]>
+    </line>
+    <line>
+      <![CDATA[Routing to the Homepage is Done]]>
+    </line>
+    <line>
+      <![CDATA[Routing to the Registration Pop up is Done]]>
+    </line>
+    <line>
+      <![CDATA[Routing to the Complete Registration is Done]]>
+    </line>
+    <line>
+      <![CDATA[Test has Passed]]>
+    </line>
+    <line>
+      <![CDATA[Test Case Started]]>
+    </line>
+    <line>
+      <![CDATA[Routing to the Homepage is Done]]>
+    </line>
+    <line>
+      <![CDATA[Routing to the Registration Pop up is Done]]>
+    </line>
+    <line>
+      <![CDATA[Routing to the Complete Registration is Done]]>
+    </line>
+    <line>
+      <![CDATA[Test has Passed]]>
+    </line>
+    <line>
+      <![CDATA[Test Case Started]]>
+    </line>
+    <line>
+      <![CDATA[Routing to the Homepage is Done]]>
+    </line>
+    <line>
+      <![CDATA[Routing to the Registration Pop up is Done]]>
+    </line>
+    <line>
+      <![CDATA[Routing to the Complete Registration is Done]]>
+    </line>
+    <line>
+      <![CDATA[Test has Passed]]>
+    </line>
+    <line>
+      <![CDATA[Test Case Started]]>
+    </line>
+    <line>
+      <![CDATA[Routing to the Homepage is Done]]>
+    </line>
+    <line>
+      <![CDATA[Routing to the Registration Pop up is Done]]>
+    </line>
+    <line>
+      <![CDATA[Routing to the Complete Registration is Done]]>
+    </line>
+    <line>
+      <![CDATA[Test has Passed]]>
+    </line>
+    <line>
+      <![CDATA[Test Case Started]]>
+    </line>
+    <line>
+      <![CDATA[Routing to the Homepage is Done]]>
+    </line>
+    <line>
+      <![CDATA[Routing to the Registration Pop up is Done]]>
+    </line>
+    <line>
+      <![CDATA[Test has Passed]]>
+    </line>
+    <line>
+      <![CDATA[Test Case Started]]>
+    </line>
+    <line>
+      <![CDATA[Routing to the Homepage is Done]]>
+    </line>
+    <line>
+      <![CDATA[Routing to the Registration Pop up is Done]]>
+    </line>
+    <line>
+      <![CDATA[Test Case Started]]>
+    </line>
+    <line>
+      <![CDATA[Routing to the Homepage is Done]]>
+    </line>
+    <line>
+      <![CDATA[Routing to the Registration Pop up is Done]]>
+    </line>
+    <line>
+      <![CDATA[Test has Passed]]>
+    </line>
+    <line>
+      <![CDATA[Test Case Started]]>
+    </line>
+    <line>
+      <![CDATA[Routing to the Homepage is Done]]>
+    </line>
+    <line>
+      <![CDATA[Routing to the Registration Pop up is Done]]>
+    </line>
+    <line>
+      <![CDATA[Clicking On the Round Trip is Done]]>
+    </line>
+    <line>
+      <![CDATA[Passing values in From text field is Done]]>
+    </line>
+    <line>
+      <![CDATA[Passing values in TO text field is Done]]>
+    </line>
+    <line>
+      <![CDATA[Clicking On the Traveller & Class Arrow is Done]]>
+    </line>
+    <line>
+      <![CDATA[Test has Passed]]>
+    </line>
+    <line>
+      <![CDATA[Test Case Started]]>
+    </line>
+    <line>
+      <![CDATA[Routing to the Homepage is Done]]>
+    </line>
+    <line>
+      <![CDATA[Routing to the Registration Pop up is Done]]>
+    </line>
+    <line>
+      <![CDATA[Passing values in From text field is Done]]>
+    </line>
+    <line>
+      <![CDATA[Passing values in TO text field is Done]]>
+    </line>
+    <line>
+      <![CDATA[Selecting Dates is done]]>
+    </line>
+    <line>
+      <![CDATA[Passing values in TO MultiCityTf is Done]]>
+    </line>
+    <line>
+      <![CDATA[Selecting Dates is done]]>
+    </line>
+    <line>
+      <![CDATA[Add one more Flight is done]]>
+    </line>
+    <line>
+      <![CDATA[Passing values in TO MultiCityTf2 is Done]]>
+    </line>
+    <line>
+      <![CDATA[Selecting Dates is done]]>
+    </line>
+    <line>
+      <![CDATA[Click on search results button Done]]>
+    </line>
+    <line>
+      <![CDATA[Test has Passed]]>
+    </line>
+    <line>
+      <![CDATA[Test Case Started]]>
+    </line>
+    <line>
+      <![CDATA[Routing to the Homepage is Done]]>
+    </line>
+    <line>
+      <![CDATA[Routing to the Registration Pop up is Done]]>
+    </line>
+    <line>
+      <![CDATA[Passing values in From text field is Done]]>
+    </line>
+    <line>
+      <![CDATA[Passing values in TO text field is Done]]>
+    </line>
+    <line>
+      <![CDATA[Selecting Dates is done]]>
+    </line>
+    <line>
+      <![CDATA[Passing values in TO MultiCityTf is Done]]>
+    </line>
+    <line>
+      <![CDATA[Selecting Dates is done]]>
+    </line>
+    <line>
+      <![CDATA[Clicking On the Traveller & Class Arrow is Done]]>
+    </line>
+    <line>
+      <![CDATA[Click on search results button is Done]]>
+    </line>
+    <line>
+      <![CDATA[Click on book button is Done]]>
+    </line>
+    <line>
+      <![CDATA[Passing values in for Adult1 is Done]]>
+    </line>
+    <line>
+      <![CDATA[Passing values in for Adult2 is Done]]>
+    </line>
+    <line>
+      <![CDATA[Passing values in for Child1 is Done]]>
+    </line>
+    <line>
+      <![CDATA[Passing values in for EmailId and PhoneNo is Done]]>
+    </line>
+    <line>
+      <![CDATA[Routing to seat booking page done]]>
+    </line>
+    <line>
+      <![CDATA[Custom Seats selection is Done]]>
+    </line>
+    <line>
+      <![CDATA[Test has Passed]]>
+    </line>
+    <line>
+      <![CDATA[Test Case Started]]>
+    </line>
+    <line>
+      <![CDATA[Routing to the Homepage is Done]]>
+    </line>
+    <line>
+      <![CDATA[Routing to the Registration Pop up is Done]]>
+    </line>
+    <line>
+      <![CDATA[Passing values in From text field is Done]]>
+    </line>
+    <line>
+      <![CDATA[Passing values in TO text field is Done]]>
+    </line>
+    <line>
+      <![CDATA[Selecting Dates is done]]>
+    </line>
+    <line>
+      <![CDATA[Passing values in TO MultiCityTf is Done]]>
+    </line>
+    <line>
+      <![CDATA[Selecting Dates is done]]>
+    </line>
+    <line>
+      <![CDATA[Clicking On the Traveller & Class Arrow is Done]]>
+    </line>
+    <line>
+      <![CDATA[Click on search results button Done]]>
+    </line>
+    <line>
+      <![CDATA[Passing values in for Adult1 is Done]]>
+    </line>
+    <line>
+      <![CDATA[Passing values in for Adult2 is Done]]>
+    </line>
+    <line>
+      <![CDATA[Passing values in for Child1 is Done]]>
+    </line>
+    <line>
+      <![CDATA[Passing values in for EmailId and PhoneNo is Done]]>
+    </line>
+    <line>
+      <![CDATA[Test has Passed]]>
+    </line>
+    <line>
+      <![CDATA[Test Case Started]]>
+    </line>
+    <line>
+      <![CDATA[Routing to the Homepage is Done]]>
+    </line>
+    <line>
+      <![CDATA[Routing to the Registration Pop up is Done]]>
+    </line>
+    <line>
+      <![CDATA[Passing values in From text field is Done]]>
+    </line>
+    <line>
+      <![CDATA[Passing values in TO text field is Done]]>
+    </line>
+    <line>
+      <![CDATA[Selecting Dates is done]]>
+    </line>
+    <line>
+      <![CDATA[Passing values in TO MultiCityTf is Done]]>
+    </line>
+    <line>
+      <![CDATA[Selecting Dates is done]]>
+    </line>
+    <line>
+      <![CDATA[Clicking On the Traveller & Class Arrow is Done]]>
+    </line>
+    <line>
+      <![CDATA[Click on search results button Done]]>
+    </line>
+    <line>
+      <![CDATA[Passing values in for Adult1 is Done]]>
+    </line>
+    <line>
+      <![CDATA[Passing values in for Adult2 is Done]]>
+    </line>
+    <line>
+      <![CDATA[Passing values in for Child1 is Done]]>
+    </line>
+    <line>
+      <![CDATA[Passing values in for EmailId and PhoneNo is Done]]>
+    </line>
+    <line>
+      <![CDATA[Routing to seat booking page done]]>
+    </line>
+    <line>
+      <![CDATA[Test has Passed]]>
+    </line>
+    <line>
+      <![CDATA[Test Case Started]]>
+    </line>
+    <line>
+      <![CDATA[Routing to the Homepage is Done]]>
+    </line>
+    <line>
+      <![CDATA[Routing to the Registration Pop up is Done]]>
+    </line>
+    <line>
+      <![CDATA[Passing values in From text field is Done]]>
+    </line>
+    <line>
+      <![CDATA[Passing values in TO text field is Done]]>
+    </line>
+    <line>
+      <![CDATA[Selecting Dates is done]]>
+    </line>
+    <line>
+      <![CDATA[Passing values in TO MultiCityTf is Done]]>
+    </line>
+    <line>
+      <![CDATA[Selecting Dates is done]]>
+    </line>
+    <line>
+      <![CDATA[Clicking On the Traveller & Class Arrow is Done]]>
+    </line>
+    <line>
+      <![CDATA[Click on search results button is Done]]>
+    </line>
+    <line>
+      <![CDATA[Click on book button is Done]]>
+    </line>
+    <line>
+      <![CDATA[Test has Passed]]>
+    </line>
+    <line>
+      <![CDATA[Test Case Started]]>
+    </line>
+    <line>
+      <![CDATA[Routing to the Homepage is Done]]>
+    </line>
+    <line>
+      <![CDATA[Routing to the Registration Pop up is Done]]>
+    </line>
+    <line>
+      <![CDATA[Routing to the Complete Registration is Done]]>
+    </line>
+    <line>
+      <![CDATA[Clicking On the Round Trip is Done]]>
+    </line>
+    <line>
+      <![CDATA[Passing values in From text field is Done]]>
+    </line>
+    <line>
+      <![CDATA[Passing values in TO text field is Done]]>
+    </line>
+    <line>
+      <![CDATA[Clicking On the Traveller & Class Arrow is Done]]>
+    </line>
+    <line>
+      <![CDATA[Selecting Dates is done]]>
+    </line>
+    <line>
+      <![CDATA[Selecting Dates is done]]>
+    </line>
+    <line>
+      <![CDATA[Click on search results button is Done]]>
+    </line>
+    <line>
+      <![CDATA[Routing to the profile settings details page is done]]>
+    </line>
+    <line>
+      <![CDATA[Click on logout is Done]]>
+    </line>
+    <line>
+      <![CDATA[Test has Passed]]>
+    </line>
+    <line>
+      <![CDATA[Test Case Started]]>
+    </line>
+    <line>
+      <![CDATA[Routing to the Homepage is Done]]>
+    </line>
+    <line>
+      <![CDATA[Routing to the Registration Pop up is Done]]>
+    </line>
+    <line>
+      <![CDATA[Passing values in From text field is Done]]>
+    </line>
+    <line>
+      <![CDATA[Passing values in TO text field is Done]]>
+    </line>
+    <line>
+      <![CDATA[Selecting Dates is done]]>
+    </line>
+    <line>
+      <![CDATA[Passing values in TO MultiCityTf is Done]]>
+    </line>
+    <line>
+      <![CDATA[Selecting Dates is done]]>
+    </line>
+    <line>
+      <![CDATA[Clicking On the Traveller & Class Arrow is Done]]>
+    </line>
+    <line>
+      <![CDATA[Click on search results button is Done]]>
+    </line>
+    <line>
+      <![CDATA[Click on book button is Done]]>
+    </line>
+    <line>
+      <![CDATA[Passing values in promo Code Tf is Done]]>
+    </line>
+    <line>
+      <![CDATA[Test has Passed]]>
+    </line>
+    <line>
+      <![CDATA[Test Case Started]]>
+    </line>
+    <line>
+      <![CDATA[Routing to the Homepage is Done]]>
+    </line>
+    <line>
+      <![CDATA[Routing to the Registration Pop up is Done]]>
+    </line>
+    <line>
+      <![CDATA[Clicking On Round Trip Cb is Done]]>
+    </line>
+    <line>
+      <![CDATA[Passing values in From text field is Done]]>
+    </line>
+    <line>
+      <![CDATA[Passing values in TO text field is Done]]>
+    </line>
+    <line>
+      <![CDATA[Click on search results button is Done]]>
+    </line>
+    <line>
+      <![CDATA[Test has Passed]]>
+    </line>
+    <line>
+      <![CDATA[Test Case Started]]>
+    </line>
+    <line>
+      <![CDATA[Routing to the Homepage is Done]]>
+    </line>
+    <line>
+      <![CDATA[Routing to the Registration Pop up is Done]]>
+    </line>
+    <line>
+      <![CDATA[Passing values in From text field is Done]]>
+    </line>
+    <line>
+      <![CDATA[Passing values in TO text field is Done]]>
+    </line>
+    <line>
+      <![CDATA[Selecting Dates is done]]>
+    </line>
+    <line>
+      <![CDATA[Passing values in TO MultiCityTf is Done]]>
+    </line>
+    <line>
+      <![CDATA[Selecting Dates is done]]>
+    </line>
+    <line>
+      <![CDATA[Clicking On the Traveller & Class Arrow is Done]]>
+    </line>
+    <line>
+      <![CDATA[Passing values in for Adult1 is Done]]>
+    </line>
+    <line>
+      <![CDATA[Passing values in for Adult2 is Done]]>
+    </line>
+    <line>
+      <![CDATA[Passing values in for Child1 is Done]]>
+    </line>
+    <line>
+      <![CDATA[Passing values in for EmailId and PhoneNo is Done]]>
+    </line>
+    <line>
+      <![CDATA[Routing to seat booking page done]]>
+    </line>
+    <line>
+      <![CDATA[Passing values in for billingAdd , pincode and state is Done]]>
+    </line>
+    <line>
+      <![CDATA[Custom Seats selection is Done]]>
+    </line>
+    <line>
+      <![CDATA[Clicking On the proceed To Payment is Done]]>
+    </line>
+    <line>
+      <![CDATA[Test has Passed]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2024-04-21T17:48:26 IST" name="Suite" finished-at="2024-04-21T17:55:53 IST" duration-ms="446088">
+    <groups>
+      <group name="Integration">
+        <method signature="Testcase_04.CheckOnwayFlight_4()[pri:0, instance:Project2.GoIbibo.Testcase_04@14fc1f0]" name="CheckOnwayFlight_4" class="Project2.GoIbibo.Testcase_04"/>
+        <method signature="Testcase_09.ValidateMultiPassenger_9()[pri:0, instance:Project2.GoIbibo.Testcase_09@1800a575]" name="ValidateMultiPassenger_9" class="Project2.GoIbibo.Testcase_09"/>
+      </group> <!-- Integration -->
+      <group name="Regression">
+        <method signature="Testcase_08.CheckSeatSelection_8()[pri:0, instance:Project2.GoIbibo.Testcase_08@1c93f6e1]" name="CheckSeatSelection_8" class="Project2.GoIbibo.Testcase_08"/>
+        <method signature="Testcase_09.ValidateMultiPassenger_9()[pri:0, instance:Project2.GoIbibo.Testcase_09@1800a575]" name="ValidateMultiPassenger_9" class="Project2.GoIbibo.Testcase_09"/>
+      </group> <!-- Regression -->
+      <group name="Smoke">
+        <method signature="Testcase_02.CheckLoginFunc_Testcase_2()[pri:0, instance:Project2.GoIbibo.Testcase_02@60df60da]" name="CheckLoginFunc_Testcase_2" class="Project2.GoIbibo.Testcase_02"/>
+        <method signature="Testcase_03.InvalidCredCheck_Testcase_3()[pri:0, instance:Project2.GoIbibo.Testcase_03@5a2d131d]" name="InvalidCredCheck_Testcase_3" class="Project2.GoIbibo.Testcase_03"/>
+        <method signature="Testcase_05.CheckTwowayFlight_5()[pri:0, instance:Project2.GoIbibo.Testcase_05@4ae9cfc1]" name="CheckTwowayFlight_5" class="Project2.GoIbibo.Testcase_05"/>
+        <method signature="Testcase_06.CheckDiffClassesForFlight_6()[pri:0, instance:Project2.GoIbibo.Testcase_06@512baff6]" name="CheckDiffClassesForFlight_6" class="Project2.GoIbibo.Testcase_06"/>
+        <method signature="Testcase_07.CheckMultiCityFlightSearch_7()[pri:0, instance:Project2.GoIbibo.Testcase_07@632ceb35]" name="CheckMultiCityFlightSearch_7" class="Project2.GoIbibo.Testcase_07"/>
+        <method signature="Testcase_08.CheckSeatSelection_8()[pri:0, instance:Project2.GoIbibo.Testcase_08@1c93f6e1]" name="CheckSeatSelection_8" class="Project2.GoIbibo.Testcase_08"/>
+        <method signature="Testcase_09.ValidateMultiPassenger_9()[pri:0, instance:Project2.GoIbibo.Testcase_09@1800a575]" name="ValidateMultiPassenger_9" class="Project2.GoIbibo.Testcase_09"/>
+        <method signature="Testcase_11.ValidateFieldsOnPage_11()[pri:0, instance:Project2.GoIbibo.Testcase_11@e383572]" name="ValidateFieldsOnPage_11" class="Project2.GoIbibo.Testcase_11"/>
+        <method signature="Testcase_14.ValidateDomesticRoundTrip_14()[pri:0, instance:Project2.GoIbibo.Testcase_14@60856961]" name="ValidateDomesticRoundTrip_14" class="Project2.GoIbibo.Testcase_14"/>
+      </group> <!-- Smoke -->
+      <group name="System">
+        <method signature="Testcase_01.SucesfulRegisterNewUser_Testcase_1()[pri:0, instance:Project2.GoIbibo.Testcase_01@19c65cdc]" name="SucesfulRegisterNewUser_Testcase_1" class="Project2.GoIbibo.Testcase_01"/>
+        <method signature="Testcase_02.CheckLoginFunc_Testcase_2()[pri:0, instance:Project2.GoIbibo.Testcase_02@60df60da]" name="CheckLoginFunc_Testcase_2" class="Project2.GoIbibo.Testcase_02"/>
+        <method signature="Testcase_03.InvalidCredCheck_Testcase_3()[pri:0, instance:Project2.GoIbibo.Testcase_03@5a2d131d]" name="InvalidCredCheck_Testcase_3" class="Project2.GoIbibo.Testcase_03"/>
+        <method signature="Testcase_07.CheckMultiCityFlightSearch_7()[pri:0, instance:Project2.GoIbibo.Testcase_07@632ceb35]" name="CheckMultiCityFlightSearch_7" class="Project2.GoIbibo.Testcase_07"/>
+        <method signature="Testcase_08.CheckSeatSelection_8()[pri:0, instance:Project2.GoIbibo.Testcase_08@1c93f6e1]" name="CheckSeatSelection_8" class="Project2.GoIbibo.Testcase_08"/>
+        <method signature="Testcase_09.ValidateMultiPassenger_9()[pri:0, instance:Project2.GoIbibo.Testcase_09@1800a575]" name="ValidateMultiPassenger_9" class="Project2.GoIbibo.Testcase_09"/>
+      </group> <!-- System -->
+    </groups>
+    <test started-at="2024-04-21T17:48:26 IST" name="EdgeTest" finished-at="2024-04-21T17:55:53 IST" duration-ms="446088">
+      <class name="Project2.GoIbibo.Testcase_11">
+        <test-method is-config="true" signature="precondition(java.lang.String)[pri:0, instance:Project2.GoIbibo.Testcase_11@e383572]" started-at="2024-04-21T17:53:18 IST" name="precondition" finished-at="2024-04-21T17:53:23 IST" duration-ms="5459" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- precondition -->
+        <test-method signature="ValidateFieldsOnPage_11()[pri:0, instance:Project2.GoIbibo.Testcase_11@e383572]" started-at="2024-04-21T17:53:23 IST" name="ValidateFieldsOnPage_11" finished-at="2024-04-21T17:53:42 IST" duration-ms="18730" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Test Case Started]]>
+            </line>
+            <line>
+              <![CDATA[Routing to the Homepage is Done]]>
+            </line>
+            <line>
+              <![CDATA[Routing to the Registration Pop up is Done]]>
+            </line>
+            <line>
+              <![CDATA[Passing values in From text field is Done]]>
+            </line>
+            <line>
+              <![CDATA[Passing values in TO text field is Done]]>
+            </line>
+            <line>
+              <![CDATA[Selecting Dates is done]]>
+            </line>
+            <line>
+              <![CDATA[Passing values in TO MultiCityTf is Done]]>
+            </line>
+            <line>
+              <![CDATA[Selecting Dates is done]]>
+            </line>
+            <line>
+              <![CDATA[Clicking On the Traveller & Class Arrow is Done]]>
+            </line>
+            <line>
+              <![CDATA[Click on search results button is Done]]>
+            </line>
+            <line>
+              <![CDATA[Click on book button is Done]]>
+            </line>
+            <line>
+              <![CDATA[Test has Passed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- ValidateFieldsOnPage_11 -->
+        <test-method is-config="true" signature="closure_activity()[pri:0, instance:Project2.GoIbibo.Testcase_11@e383572]" started-at="2024-04-21T17:53:42 IST" name="closure_activity" finished-at="2024-04-21T17:53:45 IST" duration-ms="2740" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closure_activity -->
+      </class> <!-- Project2.GoIbibo.Testcase_11 -->
+      <class name="Project2.GoIbibo.Testcase_10">
+        <test-method is-config="true" signature="precondition(java.lang.String)[pri:0, instance:Project2.GoIbibo.Testcase_10@130e116b]" started-at="2024-04-21T17:52:42 IST" name="precondition" finished-at="2024-04-21T17:52:48 IST" duration-ms="5427" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- precondition -->
+        <test-method signature="ValidateFlightInfo_10()[pri:0, instance:Project2.GoIbibo.Testcase_10@130e116b]" started-at="2024-04-21T17:52:48 IST" name="ValidateFlightInfo_10" finished-at="2024-04-21T17:53:15 IST" duration-ms="26857" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Test Case Started]]>
+            </line>
+            <line>
+              <![CDATA[Routing to the Homepage is Done]]>
+            </line>
+            <line>
+              <![CDATA[Routing to the Registration Pop up is Done]]>
+            </line>
+            <line>
+              <![CDATA[Passing values in From text field is Done]]>
+            </line>
+            <line>
+              <![CDATA[Passing values in TO text field is Done]]>
+            </line>
+            <line>
+              <![CDATA[Selecting Dates is done]]>
+            </line>
+            <line>
+              <![CDATA[Passing values in TO MultiCityTf is Done]]>
+            </line>
+            <line>
+              <![CDATA[Selecting Dates is done]]>
+            </line>
+            <line>
+              <![CDATA[Clicking On the Traveller & Class Arrow is Done]]>
+            </line>
+            <line>
+              <![CDATA[Click on search results button Done]]>
+            </line>
+            <line>
+              <![CDATA[Passing values in for Adult1 is Done]]>
+            </line>
+            <line>
+              <![CDATA[Passing values in for Adult2 is Done]]>
+            </line>
+            <line>
+              <![CDATA[Passing values in for Child1 is Done]]>
+            </line>
+            <line>
+              <![CDATA[Passing values in for EmailId and PhoneNo is Done]]>
+            </line>
+            <line>
+              <![CDATA[Routing to seat booking page done]]>
+            </line>
+            <line>
+              <![CDATA[Test has Passed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- ValidateFlightInfo_10 -->
+        <test-method is-config="true" signature="closure_activity()[pri:0, instance:Project2.GoIbibo.Testcase_10@130e116b]" started-at="2024-04-21T17:53:15 IST" name="closure_activity" finished-at="2024-04-21T17:53:18 IST" duration-ms="2725" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closure_activity -->
+      </class> <!-- Project2.GoIbibo.Testcase_10 -->
+      <class name="Project2.GoIbibo.Testcase_08">
+        <test-method is-config="true" signature="precondition(java.lang.String)[pri:0, instance:Project2.GoIbibo.Testcase_08@1c93f6e1]" started-at="2024-04-21T17:51:30 IST" name="precondition" finished-at="2024-04-21T17:51:34 IST" duration-ms="4434" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- precondition -->
+        <test-method signature="CheckSeatSelection_8()[pri:0, instance:Project2.GoIbibo.Testcase_08@1c93f6e1]" started-at="2024-04-21T17:51:34 IST" name="CheckSeatSelection_8" finished-at="2024-04-21T17:52:08 IST" duration-ms="33584" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Test Case Started]]>
+            </line>
+            <line>
+              <![CDATA[Routing to the Homepage is Done]]>
+            </line>
+            <line>
+              <![CDATA[Routing to the Registration Pop up is Done]]>
+            </line>
+            <line>
+              <![CDATA[Passing values in From text field is Done]]>
+            </line>
+            <line>
+              <![CDATA[Passing values in TO text field is Done]]>
+            </line>
+            <line>
+              <![CDATA[Selecting Dates is done]]>
+            </line>
+            <line>
+              <![CDATA[Passing values in TO MultiCityTf is Done]]>
+            </line>
+            <line>
+              <![CDATA[Selecting Dates is done]]>
+            </line>
+            <line>
+              <![CDATA[Clicking On the Traveller & Class Arrow is Done]]>
+            </line>
+            <line>
+              <![CDATA[Click on search results button is Done]]>
+            </line>
+            <line>
+              <![CDATA[Click on book button is Done]]>
+            </line>
+            <line>
+              <![CDATA[Passing values in for Adult1 is Done]]>
+            </line>
+            <line>
+              <![CDATA[Passing values in for Adult2 is Done]]>
+            </line>
+            <line>
+              <![CDATA[Passing values in for Child1 is Done]]>
+            </line>
+            <line>
+              <![CDATA[Passing values in for EmailId and PhoneNo is Done]]>
+            </line>
+            <line>
+              <![CDATA[Routing to seat booking page done]]>
+            </line>
+            <line>
+              <![CDATA[Custom Seats selection is Done]]>
+            </line>
+            <line>
+              <![CDATA[Test has Passed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- CheckSeatSelection_8 -->
+        <test-method is-config="true" signature="closure_activity()[pri:0, instance:Project2.GoIbibo.Testcase_08@1c93f6e1]" started-at="2024-04-21T17:52:08 IST" name="closure_activity" finished-at="2024-04-21T17:52:11 IST" duration-ms="2740" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closure_activity -->
+      </class> <!-- Project2.GoIbibo.Testcase_08 -->
+      <class name="Project2.GoIbibo.Testcase_07">
+        <test-method is-config="true" signature="precondition(java.lang.String)[pri:0, instance:Project2.GoIbibo.Testcase_07@632ceb35]" started-at="2024-04-21T17:51:07 IST" name="precondition" finished-at="2024-04-21T17:51:11 IST" duration-ms="3778" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- precondition -->
+        <test-method signature="CheckMultiCityFlightSearch_7()[pri:0, instance:Project2.GoIbibo.Testcase_07@632ceb35]" started-at="2024-04-21T17:51:11 IST" name="CheckMultiCityFlightSearch_7" finished-at="2024-04-21T17:51:27 IST" duration-ms="16020" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Test Case Started]]>
+            </line>
+            <line>
+              <![CDATA[Routing to the Homepage is Done]]>
+            </line>
+            <line>
+              <![CDATA[Routing to the Registration Pop up is Done]]>
+            </line>
+            <line>
+              <![CDATA[Passing values in From text field is Done]]>
+            </line>
+            <line>
+              <![CDATA[Passing values in TO text field is Done]]>
+            </line>
+            <line>
+              <![CDATA[Selecting Dates is done]]>
+            </line>
+            <line>
+              <![CDATA[Passing values in TO MultiCityTf is Done]]>
+            </line>
+            <line>
+              <![CDATA[Selecting Dates is done]]>
+            </line>
+            <line>
+              <![CDATA[Add one more Flight is done]]>
+            </line>
+            <line>
+              <![CDATA[Passing values in TO MultiCityTf2 is Done]]>
+            </line>
+            <line>
+              <![CDATA[Selecting Dates is done]]>
+            </line>
+            <line>
+              <![CDATA[Click on search results button Done]]>
+            </line>
+            <line>
+              <![CDATA[Test has Passed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- CheckMultiCityFlightSearch_7 -->
+        <test-method is-config="true" signature="closure_activity()[pri:0, instance:Project2.GoIbibo.Testcase_07@632ceb35]" started-at="2024-04-21T17:51:27 IST" name="closure_activity" finished-at="2024-04-21T17:51:30 IST" duration-ms="2722" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closure_activity -->
+      </class> <!-- Project2.GoIbibo.Testcase_07 -->
+      <class name="Project2.GoIbibo.Testcase_06">
+        <test-method is-config="true" signature="precondition(java.lang.String)[pri:0, instance:Project2.GoIbibo.Testcase_06@512baff6]" started-at="2024-04-21T17:50:53 IST" name="precondition" finished-at="2024-04-21T17:50:57 IST" duration-ms="3994" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- precondition -->
+        <test-method signature="CheckDiffClassesForFlight_6()[pri:0, instance:Project2.GoIbibo.Testcase_06@512baff6]" started-at="2024-04-21T17:50:57 IST" name="CheckDiffClassesForFlight_6" finished-at="2024-04-21T17:51:04 IST" duration-ms="6896" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Test Case Started]]>
+            </line>
+            <line>
+              <![CDATA[Routing to the Homepage is Done]]>
+            </line>
+            <line>
+              <![CDATA[Routing to the Registration Pop up is Done]]>
+            </line>
+            <line>
+              <![CDATA[Clicking On the Round Trip is Done]]>
+            </line>
+            <line>
+              <![CDATA[Passing values in From text field is Done]]>
+            </line>
+            <line>
+              <![CDATA[Passing values in TO text field is Done]]>
+            </line>
+            <line>
+              <![CDATA[Clicking On the Traveller & Class Arrow is Done]]>
+            </line>
+            <line>
+              <![CDATA[Test has Passed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- CheckDiffClassesForFlight_6 -->
+        <test-method is-config="true" signature="closure_activity()[pri:0, instance:Project2.GoIbibo.Testcase_06@512baff6]" started-at="2024-04-21T17:51:04 IST" name="closure_activity" finished-at="2024-04-21T17:51:07 IST" duration-ms="2711" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closure_activity -->
+      </class> <!-- Project2.GoIbibo.Testcase_06 -->
+      <class name="Project2.GoIbibo.Testcase_05">
+        <test-method is-config="true" signature="precondition(java.lang.String)[pri:0, instance:Project2.GoIbibo.Testcase_05@4ae9cfc1]" started-at="2024-04-21T17:49:54 IST" name="precondition" finished-at="2024-04-21T17:50:02 IST" duration-ms="7920" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- precondition -->
+        <test-method retried="true" signature="CheckTwowayFlight_5()[pri:0, instance:Project2.GoIbibo.Testcase_05@4ae9cfc1]" started-at="2024-04-21T17:50:02 IST" name="CheckTwowayFlight_5" finished-at="2024-04-21T17:50:26 IST" duration-ms="23731" status="SKIP">
+          <exception class="java.lang.IndexOutOfBoundsException">
+            <message>
+              <![CDATA[Index -10 out of bounds for length 0]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.IndexOutOfBoundsException: Index -10 out of bounds for length 0
+at java.base/jdk.internal.util.Preconditions.outOfBounds(Preconditions.java:64)
+at java.base/jdk.internal.util.Preconditions.outOfBoundsCheckIndex(Preconditions.java:70)
+at java.base/jdk.internal.util.Preconditions.checkIndex(Preconditions.java:266)
+at java.base/java.util.Objects.checkIndex(Objects.java:361)
+at java.base/java.util.ArrayList.get(ArrayList.java:427)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+at org.openqa.selenium.support.pagefactory.internal.LocatingElementListHandler.invoke(LocatingElementListHandler.java:39)
+at jdk.proxy2/jdk.proxy2.$Proxy20.get(Unknown Source)
+at Project2.GoIbibo.GoIbibo_B2C_HomePage_After_Login_3.clickOnAutoSug(GoIbibo_B2C_HomePage_After_Login_3.java:181)
+at Project2.GoIbibo.Testcase_05.CheckTwowayFlight_5(Testcase_05.java:37)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:133)
+at org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:598)
+at org.testng.internal.TestInvoker.invokeTestMethod(TestInvoker.java:173)
+at org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:46)
+at org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:824)
+at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:146)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+at org.testng.TestRunner.privateRun(TestRunner.java:794)
+at org.testng.TestRunner.run(TestRunner.java:596)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:377)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:371)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:332)
+at org.testng.SuiteRunner.run(SuiteRunner.java:276)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:53)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:96)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1212)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1134)
+at org.testng.TestNG.runSuites(TestNG.java:1063)
+at org.testng.TestNG.run(TestNG.java:1031)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.IndexOutOfBoundsException -->
+          <reporter-output>
+            <line>
+              <![CDATA[Test Case Started]]>
+            </line>
+            <line>
+              <![CDATA[Routing to the Homepage is Done]]>
+            </line>
+            <line>
+              <![CDATA[Routing to the Registration Pop up is Done]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- CheckTwowayFlight_5 -->
+        <test-method is-config="true" signature="closure_activity()[pri:0, instance:Project2.GoIbibo.Testcase_05@4ae9cfc1]" started-at="2024-04-21T17:50:29 IST" name="closure_activity" finished-at="2024-04-21T17:50:32 IST" duration-ms="2697" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closure_activity -->
+        <test-method is-config="true" signature="precondition(java.lang.String)[pri:0, instance:Project2.GoIbibo.Testcase_05@4ae9cfc1]" started-at="2024-04-21T17:50:32 IST" name="precondition" finished-at="2024-04-21T17:50:35 IST" duration-ms="3211" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- precondition -->
+        <test-method signature="CheckTwowayFlight_5()[pri:0, instance:Project2.GoIbibo.Testcase_05@4ae9cfc1]" started-at="2024-04-21T17:50:35 IST" name="CheckTwowayFlight_5" finished-at="2024-04-21T17:50:51 IST" duration-ms="15724" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Test Case Started]]>
+            </line>
+            <line>
+              <![CDATA[Routing to the Homepage is Done]]>
+            </line>
+            <line>
+              <![CDATA[Routing to the Registration Pop up is Done]]>
+            </line>
+            <line>
+              <![CDATA[Test has Passed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- CheckTwowayFlight_5 -->
+        <test-method is-config="true" signature="closure_activity()[pri:0, instance:Project2.GoIbibo.Testcase_05@4ae9cfc1]" started-at="2024-04-21T17:50:51 IST" name="closure_activity" finished-at="2024-04-21T17:50:53 IST" duration-ms="2733" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closure_activity -->
+      </class> <!-- Project2.GoIbibo.Testcase_05 -->
+      <class name="Project2.GoIbibo.Testcase_15">
+        <test-method is-config="true" signature="precondition(java.lang.String)[pri:0, instance:Project2.GoIbibo.Testcase_15@2fd953a6]" started-at="2024-04-21T17:55:15 IST" name="precondition" finished-at="2024-04-21T17:55:21 IST" duration-ms="5820" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- precondition -->
+        <test-method signature="CheckPaymentPageRoute_15()[pri:0, instance:Project2.GoIbibo.Testcase_15@2fd953a6]" started-at="2024-04-21T17:55:21 IST" name="CheckPaymentPageRoute_15" finished-at="2024-04-21T17:55:50 IST" duration-ms="28657" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Test Case Started]]>
+            </line>
+            <line>
+              <![CDATA[Routing to the Homepage is Done]]>
+            </line>
+            <line>
+              <![CDATA[Routing to the Registration Pop up is Done]]>
+            </line>
+            <line>
+              <![CDATA[Passing values in From text field is Done]]>
+            </line>
+            <line>
+              <![CDATA[Passing values in TO text field is Done]]>
+            </line>
+            <line>
+              <![CDATA[Selecting Dates is done]]>
+            </line>
+            <line>
+              <![CDATA[Passing values in TO MultiCityTf is Done]]>
+            </line>
+            <line>
+              <![CDATA[Selecting Dates is done]]>
+            </line>
+            <line>
+              <![CDATA[Clicking On the Traveller & Class Arrow is Done]]>
+            </line>
+            <line>
+              <![CDATA[Passing values in for Adult1 is Done]]>
+            </line>
+            <line>
+              <![CDATA[Passing values in for Adult2 is Done]]>
+            </line>
+            <line>
+              <![CDATA[Passing values in for Child1 is Done]]>
+            </line>
+            <line>
+              <![CDATA[Passing values in for EmailId and PhoneNo is Done]]>
+            </line>
+            <line>
+              <![CDATA[Routing to seat booking page done]]>
+            </line>
+            <line>
+              <![CDATA[Passing values in for billingAdd , pincode and state is Done]]>
+            </line>
+            <line>
+              <![CDATA[Custom Seats selection is Done]]>
+            </line>
+            <line>
+              <![CDATA[Clicking On the proceed To Payment is Done]]>
+            </line>
+            <line>
+              <![CDATA[Test has Passed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- CheckPaymentPageRoute_15 -->
+        <test-method is-config="true" signature="closure_activity()[pri:0, instance:Project2.GoIbibo.Testcase_15@2fd953a6]" started-at="2024-04-21T17:55:50 IST" name="closure_activity" finished-at="2024-04-21T17:55:53 IST" duration-ms="2692" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closure_activity -->
+      </class> <!-- Project2.GoIbibo.Testcase_15 -->
+      <class name="Project2.GoIbibo.Testcase_04">
+        <test-method is-config="true" signature="precondition(java.lang.String)[pri:0, instance:Project2.GoIbibo.Testcase_04@14fc1f0]" started-at="2024-04-21T17:49:31 IST" name="precondition" finished-at="2024-04-21T17:49:36 IST" duration-ms="4468" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- precondition -->
+        <test-method signature="CheckOnwayFlight_4()[pri:0, instance:Project2.GoIbibo.Testcase_04@14fc1f0]" started-at="2024-04-21T17:49:36 IST" name="CheckOnwayFlight_4" finished-at="2024-04-21T17:49:51 IST" duration-ms="15209" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Test Case Started]]>
+            </line>
+            <line>
+              <![CDATA[Routing to the Homepage is Done]]>
+            </line>
+            <line>
+              <![CDATA[Routing to the Registration Pop up is Done]]>
+            </line>
+            <line>
+              <![CDATA[Test has Passed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- CheckOnwayFlight_4 -->
+        <test-method is-config="true" signature="closure_activity()[pri:0, instance:Project2.GoIbibo.Testcase_04@14fc1f0]" started-at="2024-04-21T17:49:51 IST" name="closure_activity" finished-at="2024-04-21T17:49:54 IST" duration-ms="2748" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closure_activity -->
+      </class> <!-- Project2.GoIbibo.Testcase_04 -->
+      <class name="Project2.GoIbibo.Testcase_03">
+        <test-method is-config="true" signature="precondition(java.lang.String)[pri:0, instance:Project2.GoIbibo.Testcase_03@5a2d131d]" started-at="2024-04-21T17:49:19 IST" name="precondition" finished-at="2024-04-21T17:49:24 IST" duration-ms="5246" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- precondition -->
+        <test-method signature="InvalidCredCheck_Testcase_3()[pri:0, instance:Project2.GoIbibo.Testcase_03@5a2d131d]" started-at="2024-04-21T17:49:24 IST" name="InvalidCredCheck_Testcase_3" finished-at="2024-04-21T17:49:28 IST" duration-ms="4369" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Test Case Started]]>
+            </line>
+            <line>
+              <![CDATA[Routing to the Homepage is Done]]>
+            </line>
+            <line>
+              <![CDATA[Routing to the Registration Pop up is Done]]>
+            </line>
+            <line>
+              <![CDATA[Routing to the Complete Registration is Done]]>
+            </line>
+            <line>
+              <![CDATA[Test has Passed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- InvalidCredCheck_Testcase_3 -->
+        <test-method is-config="true" signature="closure_activity()[pri:0, instance:Project2.GoIbibo.Testcase_03@5a2d131d]" started-at="2024-04-21T17:49:28 IST" name="closure_activity" finished-at="2024-04-21T17:49:31 IST" duration-ms="2750" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closure_activity -->
+      </class> <!-- Project2.GoIbibo.Testcase_03 -->
+      <class name="Project2.GoIbibo.Testcase_14">
+        <test-method is-config="true" signature="precondition(java.lang.String)[pri:0, instance:Project2.GoIbibo.Testcase_14@60856961]" started-at="2024-04-21T17:54:51 IST" name="precondition" finished-at="2024-04-21T17:54:56 IST" duration-ms="4804" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- precondition -->
+        <test-method signature="ValidateDomesticRoundTrip_14()[pri:0, instance:Project2.GoIbibo.Testcase_14@60856961]" started-at="2024-04-21T17:54:56 IST" name="ValidateDomesticRoundTrip_14" finished-at="2024-04-21T17:55:12 IST" duration-ms="16422" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Test Case Started]]>
+            </line>
+            <line>
+              <![CDATA[Routing to the Homepage is Done]]>
+            </line>
+            <line>
+              <![CDATA[Routing to the Registration Pop up is Done]]>
+            </line>
+            <line>
+              <![CDATA[Clicking On Round Trip Cb is Done]]>
+            </line>
+            <line>
+              <![CDATA[Passing values in From text field is Done]]>
+            </line>
+            <line>
+              <![CDATA[Passing values in TO text field is Done]]>
+            </line>
+            <line>
+              <![CDATA[Click on search results button is Done]]>
+            </line>
+            <line>
+              <![CDATA[Test has Passed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- ValidateDomesticRoundTrip_14 -->
+        <test-method is-config="true" signature="closure_activity()[pri:0, instance:Project2.GoIbibo.Testcase_14@60856961]" started-at="2024-04-21T17:55:13 IST" name="closure_activity" finished-at="2024-04-21T17:55:15 IST" duration-ms="2739" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closure_activity -->
+      </class> <!-- Project2.GoIbibo.Testcase_14 -->
+      <class name="Project2.GoIbibo.Testcase_13">
+        <test-method is-config="true" signature="precondition(java.lang.String)[pri:0, instance:Project2.GoIbibo.Testcase_13@363a52f]" started-at="2024-04-21T17:54:27 IST" name="precondition" finished-at="2024-04-21T17:54:32 IST" duration-ms="5277" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- precondition -->
+        <test-method signature="ValidateApplyCoupon_13()[pri:0, instance:Project2.GoIbibo.Testcase_13@363a52f]" started-at="2024-04-21T17:54:32 IST" name="ValidateApplyCoupon_13" finished-at="2024-04-21T17:54:48 IST" duration-ms="15802" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Test Case Started]]>
+            </line>
+            <line>
+              <![CDATA[Routing to the Homepage is Done]]>
+            </line>
+            <line>
+              <![CDATA[Routing to the Registration Pop up is Done]]>
+            </line>
+            <line>
+              <![CDATA[Passing values in From text field is Done]]>
+            </line>
+            <line>
+              <![CDATA[Passing values in TO text field is Done]]>
+            </line>
+            <line>
+              <![CDATA[Selecting Dates is done]]>
+            </line>
+            <line>
+              <![CDATA[Passing values in TO MultiCityTf is Done]]>
+            </line>
+            <line>
+              <![CDATA[Selecting Dates is done]]>
+            </line>
+            <line>
+              <![CDATA[Clicking On the Traveller & Class Arrow is Done]]>
+            </line>
+            <line>
+              <![CDATA[Click on search results button is Done]]>
+            </line>
+            <line>
+              <![CDATA[Click on book button is Done]]>
+            </line>
+            <line>
+              <![CDATA[Passing values in promo Code Tf is Done]]>
+            </line>
+            <line>
+              <![CDATA[Test has Passed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- ValidateApplyCoupon_13 -->
+        <test-method is-config="true" signature="closure_activity()[pri:0, instance:Project2.GoIbibo.Testcase_13@363a52f]" started-at="2024-04-21T17:54:48 IST" name="closure_activity" finished-at="2024-04-21T17:54:51 IST" duration-ms="2736" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closure_activity -->
+      </class> <!-- Project2.GoIbibo.Testcase_13 -->
+      <class name="Project2.GoIbibo.Testcase_02">
+        <test-method is-config="true" signature="precondition(java.lang.String)[pri:0, instance:Project2.GoIbibo.Testcase_02@60df60da]" started-at="2024-04-21T17:48:46 IST" name="precondition" finished-at="2024-04-21T17:48:51 IST" duration-ms="4194" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- precondition -->
+        <test-method signature="CheckLoginFunc_Testcase_2()[pri:0, instance:Project2.GoIbibo.Testcase_02@60df60da]" started-at="2024-04-21T17:48:51 IST" name="CheckLoginFunc_Testcase_2" finished-at="2024-04-21T17:48:57 IST" duration-ms="6407" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Test Case Started]]>
+            </line>
+            <line>
+              <![CDATA[Routing to the Homepage is Done]]>
+            </line>
+            <line>
+              <![CDATA[Routing to the Registration Pop up is Done]]>
+            </line>
+            <line>
+              <![CDATA[Routing to the Complete Registration is Done]]>
+            </line>
+            <line>
+              <![CDATA[Test has Passed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- CheckLoginFunc_Testcase_2 -->
+        <test-method is-config="true" signature="closure_activity()[pri:0, instance:Project2.GoIbibo.Testcase_02@60df60da]" started-at="2024-04-21T17:48:57 IST" name="closure_activity" finished-at="2024-04-21T17:49:00 IST" duration-ms="2740" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closure_activity -->
+        <test-method is-config="true" signature="precondition(java.lang.String)[pri:0, instance:Project2.GoIbibo.Testcase_02@60df60da]" started-at="2024-04-21T17:49:00 IST" name="precondition" finished-at="2024-04-21T17:49:07 IST" duration-ms="7102" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- precondition -->
+        <test-method signature="CheckLoginFunc_Testcase_2()[pri:0, instance:Project2.GoIbibo.Testcase_02@60df60da]" started-at="2024-04-21T17:49:07 IST" name="CheckLoginFunc_Testcase_2" finished-at="2024-04-21T17:49:16 IST" duration-ms="8744" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Test Case Started]]>
+            </line>
+            <line>
+              <![CDATA[Routing to the Homepage is Done]]>
+            </line>
+            <line>
+              <![CDATA[Routing to the Registration Pop up is Done]]>
+            </line>
+            <line>
+              <![CDATA[Routing to the Complete Registration is Done]]>
+            </line>
+            <line>
+              <![CDATA[Test has Passed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- CheckLoginFunc_Testcase_2 -->
+        <test-method is-config="true" signature="closure_activity()[pri:0, instance:Project2.GoIbibo.Testcase_02@60df60da]" started-at="2024-04-21T17:49:16 IST" name="closure_activity" finished-at="2024-04-21T17:49:19 IST" duration-ms="2709" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closure_activity -->
+      </class> <!-- Project2.GoIbibo.Testcase_02 -->
+      <class name="Project2.GoIbibo.Testcase_01">
+        <test-method is-config="true" signature="precondition(java.lang.String)[pri:0, instance:Project2.GoIbibo.Testcase_01@19c65cdc]" started-at="2024-04-21T17:48:27 IST" name="precondition" finished-at="2024-04-21T17:48:33 IST" duration-ms="6229" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- precondition -->
+        <test-method signature="SucesfulRegisterNewUser_Testcase_1()[pri:0, instance:Project2.GoIbibo.Testcase_01@19c65cdc]" started-at="2024-04-21T17:48:33 IST" name="SucesfulRegisterNewUser_Testcase_1" finished-at="2024-04-21T17:48:44 IST" duration-ms="10510" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Test Case Started]]>
+            </line>
+            <line>
+              <![CDATA[Routing to the Homepage is Done]]>
+            </line>
+            <line>
+              <![CDATA[Routing to the Registration Pop up is Done]]>
+            </line>
+            <line>
+              <![CDATA[Routing to the Complete Registration is Done]]>
+            </line>
+            <line>
+              <![CDATA[Test has Passed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- SucesfulRegisterNewUser_Testcase_1 -->
+        <test-method is-config="true" signature="closure_activity()[pri:0, instance:Project2.GoIbibo.Testcase_01@19c65cdc]" started-at="2024-04-21T17:48:44 IST" name="closure_activity" finished-at="2024-04-21T17:48:46 IST" duration-ms="2735" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closure_activity -->
+      </class> <!-- Project2.GoIbibo.Testcase_01 -->
+      <class name="Project2.GoIbibo.Testcase_12">
+        <test-method is-config="true" signature="precondition(java.lang.String)[pri:0, instance:Project2.GoIbibo.Testcase_12@5ddf0d24]" started-at="2024-04-21T17:53:45 IST" name="precondition" finished-at="2024-04-21T17:53:49 IST" duration-ms="4525" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- precondition -->
+        <test-method signature="ValidateLogin_Logout_12()[pri:0, instance:Project2.GoIbibo.Testcase_12@5ddf0d24]" started-at="2024-04-21T17:53:49 IST" name="ValidateLogin_Logout_12" finished-at="2024-04-21T17:54:24 IST" duration-ms="35250" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Test Case Started]]>
+            </line>
+            <line>
+              <![CDATA[Routing to the Homepage is Done]]>
+            </line>
+            <line>
+              <![CDATA[Routing to the Registration Pop up is Done]]>
+            </line>
+            <line>
+              <![CDATA[Routing to the Complete Registration is Done]]>
+            </line>
+            <line>
+              <![CDATA[Clicking On the Round Trip is Done]]>
+            </line>
+            <line>
+              <![CDATA[Passing values in From text field is Done]]>
+            </line>
+            <line>
+              <![CDATA[Passing values in TO text field is Done]]>
+            </line>
+            <line>
+              <![CDATA[Clicking On the Traveller & Class Arrow is Done]]>
+            </line>
+            <line>
+              <![CDATA[Selecting Dates is done]]>
+            </line>
+            <line>
+              <![CDATA[Selecting Dates is done]]>
+            </line>
+            <line>
+              <![CDATA[Click on search results button is Done]]>
+            </line>
+            <line>
+              <![CDATA[Routing to the profile settings details page is done]]>
+            </line>
+            <line>
+              <![CDATA[Click on logout is Done]]>
+            </line>
+            <line>
+              <![CDATA[Test has Passed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- ValidateLogin_Logout_12 -->
+        <test-method is-config="true" signature="closure_activity()[pri:0, instance:Project2.GoIbibo.Testcase_12@5ddf0d24]" started-at="2024-04-21T17:54:24 IST" name="closure_activity" finished-at="2024-04-21T17:54:27 IST" duration-ms="2682" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closure_activity -->
+      </class> <!-- Project2.GoIbibo.Testcase_12 -->
+      <class name="Project2.GoIbibo.Testcase_09">
+        <test-method is-config="true" signature="precondition(java.lang.String)[pri:0, instance:Project2.GoIbibo.Testcase_09@1800a575]" started-at="2024-04-21T17:52:11 IST" name="precondition" finished-at="2024-04-21T17:52:15 IST" duration-ms="4065" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- precondition -->
+        <test-method signature="ValidateMultiPassenger_9()[pri:0, instance:Project2.GoIbibo.Testcase_09@1800a575]" started-at="2024-04-21T17:52:15 IST" name="ValidateMultiPassenger_9" finished-at="2024-04-21T17:52:40 IST" duration-ms="24848" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Test Case Started]]>
+            </line>
+            <line>
+              <![CDATA[Routing to the Homepage is Done]]>
+            </line>
+            <line>
+              <![CDATA[Routing to the Registration Pop up is Done]]>
+            </line>
+            <line>
+              <![CDATA[Passing values in From text field is Done]]>
+            </line>
+            <line>
+              <![CDATA[Passing values in TO text field is Done]]>
+            </line>
+            <line>
+              <![CDATA[Selecting Dates is done]]>
+            </line>
+            <line>
+              <![CDATA[Passing values in TO MultiCityTf is Done]]>
+            </line>
+            <line>
+              <![CDATA[Selecting Dates is done]]>
+            </line>
+            <line>
+              <![CDATA[Clicking On the Traveller & Class Arrow is Done]]>
+            </line>
+            <line>
+              <![CDATA[Click on search results button Done]]>
+            </line>
+            <line>
+              <![CDATA[Passing values in for Adult1 is Done]]>
+            </line>
+            <line>
+              <![CDATA[Passing values in for Adult2 is Done]]>
+            </line>
+            <line>
+              <![CDATA[Passing values in for Child1 is Done]]>
+            </line>
+            <line>
+              <![CDATA[Passing values in for EmailId and PhoneNo is Done]]>
+            </line>
+            <line>
+              <![CDATA[Test has Passed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- ValidateMultiPassenger_9 -->
+        <test-method is-config="true" signature="closure_activity()[pri:0, instance:Project2.GoIbibo.Testcase_09@1800a575]" started-at="2024-04-21T17:52:40 IST" name="closure_activity" finished-at="2024-04-21T17:52:42 IST" duration-ms="2720" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closure_activity -->
+      </class> <!-- Project2.GoIbibo.Testcase_09 -->
+    </test> <!-- EdgeTest -->
+  </suite> <!-- Suite -->
+</testng-results>
